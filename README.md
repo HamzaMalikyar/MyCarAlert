@@ -33,3 +33,8 @@
 ## Required Installations
 - *XAMPP* -- https://www.apachefriends.org/download.html
 - Any IDE that can read PHP (Visual Studio Code, Notepad++, ...)
+
+## Collaborators
+- *Hamza Malikyar (Github Link: https://github.com/HamzaMalikyar)
+- *Lenny Do (Github Link: https://github.com/lennyqd)
+- *Tony Casanave
