@@ -37,4 +37,4 @@
 ## Collaborators
 - *Hamza Malikyar (Github Link: https://github.com/HamzaMalikyar)
 - *Lenny Do (Github Link: https://github.com/lennyqd)
-- *Tony Casanave
+- *Tony Casanave (https://github.com/p0maTypez)
